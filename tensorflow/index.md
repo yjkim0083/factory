@@ -21,8 +21,8 @@
 - 실행 예제
     ```shell
     yjkim@pt2-works:~$ export LD_LIBRARY_PATH=/usr/local/cuda/lib64
-    yjkim@pt2-works:~$ source /DATA/tensorenv/bin/activate
-    (tensorenv) yjkim@pt2-works:~$ #virtualenv 환경 진입
+    yjkim@pt2-works:~$ source /DATA/tensorenv/bin/activate #virtualenv 환경 진입
+    (tensorenv) yjkim@pt2-works:~$
     (tensorenv) yjkim@pt2-works:~$ python
     Python 2.7.12 (default, Nov 19 2016, 06:48:10)
     [GCC 5.4.0 20160609] on linux2
