@@ -22,6 +22,7 @@
     ```shell
     yjkim@pt2-works:~$ export LD_LIBRARY_PATH=/usr/local/cuda/lib64
     yjkim@pt2-works:~$ source /DATA/tensorenv/bin/activate
+    (tensorenv) yjkim@pt2-works:~$ #virtualenv 환경 진입
     (tensorenv) yjkim@pt2-works:~$ python
     Python 2.7.12 (default, Nov 19 2016, 06:48:10)
     [GCC 5.4.0 20160609] on linux2
@@ -32,5 +33,7 @@
     I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
     I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
     I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
-    >>>
+    >>> quit()
+    (tensorenv) yjkim@pt2-works:~$ deactivate # virtualenv 환경 나가기
+    yjkim@pt2-works:~$
     ```
