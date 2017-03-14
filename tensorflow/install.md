@@ -1,1 +1,1 @@
-[tensorflow install](http://www.popit.kr/tensorflow-install-ubuntu16/)
+* [tensorflow install](http://www.popit.kr/tensorflow-install-ubuntu16/)
